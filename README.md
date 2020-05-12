@@ -10,3 +10,9 @@
 ### 자신이 팁을 적고싶다면 ?   
 Pull Request를 이용하여 자신의 팁을 적어주세요.   
 이해하기 쉽도록 이미지들을 첨부하면서 적어주시면 매우 도움이 될꺼 같습니다!
+
+### 🌟(Star)를 눌러주신다면 팀에게 많은 도움이 됩니다
+   
+   
+   
+![Valorant](https://image-cdn.essentiallysports.com/wp-content/uploads/20200410200859/LogoVersion_Beta_Key_Art_VALORANT.jpg)
